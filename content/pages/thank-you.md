@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: Thank You!
     subtitle: >-
-      Thank you for testing this template. We hope you like it. Have a great day!
+      Thank you for testing this template. We hope you like it. Have a great
+      day!
     actions:
       - label: Back to homepage
         url: /
@@ -13,4 +14,10 @@ sections:
     padding_bottom: large
     background_color: none
 layout: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
